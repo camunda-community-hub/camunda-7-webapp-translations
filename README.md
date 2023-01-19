@@ -14,7 +14,7 @@ A [Video Tutorial](https://blog.camunda.org/post/2014/12/internationalization-in
 ### List of available translations
 
 > **Heads-up** \
-> Starting with **Camunda Automation Platform 7.18.0-alpha5**, the **English** translation files were moved into our main repository and are not part of this repository anymore. The new locations are linked in the table below.
+> Starting with **Camunda Automation Platform 7.19.0-alpha3**, the **German** translation files were moved into our main repository and are not part of this repository anymore. The new locations are linked in the table below.
 
 | Language                | Version | Webapp                                                                                                                       | Contributor                                                                                                                                                                                                                                                                                                                      |
 | ----------------------- |---------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
