@@ -1,7 +1,7 @@
 [![Community Extension](https://img.shields.io/badge/Community%20Extension-An%20open%20source%20community%20maintained%20project-FF4700)](https://github.com/camunda-community-hub/community)
 [![](https://img.shields.io/badge/Lifecycle-Incubating-blue)](https://github.com/Camunda-Community-Hub/community/blob/main/extension-lifecycle.md#incubating-) ![Compatible with: Camunda Platform 7](https://img.shields.io/badge/Compatible%20with-Camunda%20Platform%207-26d07c) ![](https://img.shields.io/badge/Maintainer%20Wanted-This%20extension%20is%20in%20search%20of%20a%20Maintainer-ff69b4)
 
-# Camunda Webapp Translations
+# Camunda 7 Webapp Translations
 
 This Camunda Platform project provides translations for Camunda Tasklist, Cockpit Basic/Full and Admin. Community translations in languages other than English are contributed and maintained by the broader Camunda community, and are not officially supported or maintained by Camunda.
 
@@ -19,7 +19,7 @@ A [Video Tutorial](https://blog.camunda.org/post/2014/12/internationalization-in
 | Language                | Version | Webapp                                                                                                                       | Contributor                                                                                                                                                                                                                                                                                                                      |
 | ----------------------- |---------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | German                  | 7.18.0  | [Tasklist][de-tasklist], [Cockpit][de-cockpit], [Admin][de-admin], [Welcome][de-welcome]                                     | [camunda services GmbH](https://github.com/camunda), [Philipp Heuer](https://github.com/PhilippHeuer)                                                                                                                                                                                                                            |
-| English                 | 7.18.0  | [Tasklist][en-tasklist], [Cockpit][en-cockpit], [Admin][en-admin], [Welcome][en-welcome]                                     | [camunda services GmbH](https://github.com/camunda)                                                                                                                                                                                                                                                                              |
+| English                 | 7.19.0-SNAPSHOT  | [Tasklist][en-tasklist], [Cockpit][en-cockpit], [Admin][en-admin], [Welcome][en-welcome]                                     | [camunda services GmbH](https://github.com/camunda)                                                                                                                                                                                                                                                                              |
 | Czech                   | 7.7.0   | [Tasklist](/tasklist/cs.json)                                                                                                | [Trask solutions, Tomas Mikes](https://github.com/mikibo)                                                                                                                                                                                                                                                                        |
 | Russian                 | 7.15.0  | [Tasklist](/tasklist/ru.json)                                                                                                | [Andrii Stesin](https://github.com/astesin), [Max Davliatshin](https://github.com/TitanUser), [Andrey Zhukov](https://github.com/zhukov-andrey)                                                                                                                                                                                  |
 | Ukrainian               | 7.5.0   | [Tasklist](/tasklist/uk.json)                                                                                                | [Andrii Stesin](https://github.com/astesin)                                                                                                                                                                                                                                                                                      |
@@ -45,12 +45,12 @@ Everybody is welcome to contribute! You can help by sending us a pull request wi
   * Website: http://www.camunda.org/
   * License: Apache License, Version 2.0  http://www.apache.org/licenses/LICENSE-2.0
 
-[en-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/tasklist/client/locales/en.json
-[en-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/cockpit/client/locales/en.json
-[en-admin]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/admin/client/locales/en.json
-[en-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/welcome/client/locales/en.json
+[en-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/tasklist/client/locales/en.json
+[en-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/cockpit/client/locales/en.json
+[en-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/en.json
+[en-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/en.json
 
-[de-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/tasklist/client/locales/en.json
-[de-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/cockpit/client/locales/en.json
-[de-admin]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/admin/client/locales/en.json
-[de-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/7.18.0/webapps/ui/welcome/client/locales/en.json
+[de-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/tasklist/client/locales/en.json
+[de-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/cockpit/client/locales/en.json
+[de-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/en.json
+[de-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/en.json
