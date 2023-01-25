@@ -50,7 +50,7 @@ Everybody is welcome to contribute! You can help by sending us a pull request wi
 [en-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/en.json
 [en-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/en.json
 
-[de-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/tasklist/client/locales/en.json
-[de-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/cockpit/client/locales/en.json
-[de-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/en.json
-[de-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/en.json
+[de-tasklist]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/tasklist/client/locales/de.json
+[de-cockpit]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/cockpit/client/locales/de.json
+[de-admin]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/admin/client/locales/de.json
+[de-welcome]: https://github.com/camunda/camunda-bpm-platform/tree/master/webapps/ui/welcome/client/locales/de.json
