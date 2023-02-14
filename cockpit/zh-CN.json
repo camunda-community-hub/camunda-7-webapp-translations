@@ -531,7 +531,7 @@
     "PLUGIN_TASK_TYPES":  "类型:",
     "PLUGIN_TASK_GROUP": "组",
     "PLUGIN_TASK_TOTAL":  "总计:",
-    "PLUGIN_TASK_ASSIGNMENT_BY_GROUP":  "安组分配",
+    "PLUGIN_TASK_ASSIGNMENT_BY_GROUP":  "按组分配",
     "PLUGIN_TASK_LEGEND_FOOTER": "一个任务可以有多个组.",
     "PLUGIN_TASK_ERROR_COUNT": "无法按组获取分配",
     "PLUGIN_TASK_ERROR_FETCH": "无法获取 '{{ res }}' 的资源",
