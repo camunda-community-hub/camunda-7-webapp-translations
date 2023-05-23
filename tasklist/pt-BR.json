@@ -184,7 +184,7 @@
     "FILTER_VARIABLE_NAME": "Nome",
     "FILTER_VARIABLE_LABEL": "Rótulo",
     "FILTER_VARIABLE_NAME_PLACEHOLDER": "Nome da máquina da variável",
-    "FILTER_VARIABLE_LABEL_PLACEHOLDER": "Rpotulo legível",
+    "FILTER_VARIABLE_LABEL_PLACEHOLDER": "Rótulo legível",
     "FILTER_ADD_VARIABLE": "Adicionar variável",
     "FILTER_REMOVE_VARIABLE": "Remover",
     "FILTER_VARIABLES_AMOUNT_WARNING": "Mostrar muitas variáveis na lista de tarefas pode afetar a experiência do usuário.",
