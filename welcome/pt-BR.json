@@ -160,38 +160,28 @@
     "START": "Iniciar",
     "STRING": "String",
     "SUBMIT": "Enviar",
+    "TASK": "Task",
     "TASKLIST": "Tasklist",
     "TASKLIST_APP": "Tasklist",
-    "TASK": "Task",
+    "TASKS": "Tarefas",
     "TELEMETRY_CANCEL": "Cancelar",
     "TELEMETRY_DATA": "Nenhuma de suas informações pessoais ou dados armazenados serão enviados. Para saber mais, leia nosso ",
     "TELEMETRY_DETAILS": "Permitir que Camunda Platform Runtime Engine envie estatísticas de uso anônimas. Usamos essas informações para fornecer a você uma experiência de produto estável e aprimorada no ambiente que você está usando. Isso permite que a Camunda colete informações sobre a versão do produto e o ambiente técnico que você está usando, e como está usando.",
     "TELEMETRY_DOCUMENTATION": "documentação",
-    
-
+    "TELEMETRY_ENABLE": "Habilitar estatísticas de uso",
+    "TELEMETRY_ERROR_MESSAGE": "Não foi possível salvar sua configuração. Por favor, tente novamente."
+    "TELEMETRY_ERROR_STATUS": "Erro",
+    "TELEMETRY_INTRODUCTION": "Para melhorar a experiência do usuário, o Camunda Platform Runtime Engine pode ser integrado ao Camunda Services GmbH, o que requer solicitações externas de rede. Escolha uma das configurações abaixo.",
+    "TELEMETRY_OR_VIEW": " ou veja nosso ",
+    "TELEMETRY_PRIVACY": "Nos respeitamos sua privacidade.",
+    "TELEMETRY_PRIVACY_POLICY": "política de privacidade",
     "TELEMETRY_SAVE": "Salvar",
     "TELEMETRY_SETTINGS": "Configurações de Telemetria",
-    "TELEMETRY_INTRODUCTION": "Para melhorar a experiência do usuário, o Camunda Platform Runtime Engine pode ser integrado ao Camunda Services GmbH, o que requer solicitações externas de rede. Escolha uma das configurações abaixo.",
-    "TELEMETRY_ENABLE": "Habilitar estatísticas de uso",
-    "TELEMETRY_PRIVACY": "Nos respeitamos sua privacidade.",
-    "TELEMETRY_OR_VIEW": " ou veja nosso ",
-    "TELEMETRY_PRIVACY_POLICY": "política de privacidade",
-    "TELEMETRY_SUCCESS_HEADING": "Sucesso",
     "TELEMETRY_SUCCESS": "A configuração da telemetria foi salva com sucesso ",
-    "TELEMETRY_ERROR_STATUS": "Erro",
-    "TELEMETRY_ERROR_MESSAGE": "Não foi possível salvar sua configuração. Por favor, tente novamente."
-    
-
-
-
-
-    
-    "TOGGLE_NAVIGATION": "Alternar de navegação",
-    "TASKS": "Tarefas",
+    "TELEMETRY_SUCCESS_HEADING": "Sucesso",
+    "TOGGLE_NAVIGATION": "Alternar de navegação",    
     "UPDATE": "Atualizar",
-    "USERNAME": "Nome do Usuário",
+    "USERNAME": "Nome do Usuário",    
     "USERNAME_FOR_AUTHENTICATION": "Nome do Usuário para autenticação: {{username}}",
-    "APPLICATIONS": "Aplicações",
-    "ADMIN": "Admin",
   }
 }
