@@ -40,7 +40,7 @@ A [Video Tutorial](https://blog.camunda.org/post/2014/12/internationalization-in
 
 ### Contribute!
 
-Everybody is welcome to contribute! You can help by sending us a pull request with your translation and tagging `@c7-webapp-translation` for review. For further reference, please see our [contribution guide](https://github.com/camunda/camunda-bpm-platform/blob/master/CONTRIBUTING.md).
+Everybody is welcome to contribute! You can help by sending us a pull request with your translation and tagging `@pierre-yves-monnet` for review. For further reference, please see our [contribution guide](https://github.com/camunda/camunda-bpm-platform/blob/master/CONTRIBUTING.md).
 
   * Website: http://www.camunda.org/
   * License: Apache License, Version 2.0  http://www.apache.org/licenses/LICENSE-2.0
